@@ -1,0 +1,9 @@
+{
+  "name": "luying-guide-site",
+  "version": "1.0.0",
+  "description": "露营攻略内容网站（前台+后台管理）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
